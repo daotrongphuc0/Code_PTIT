@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "numeric": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "c",
+        "bitset": "c",
+        "complex": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "regex": "c",
+        "tuple": "c",
+        "valarray": "c",
+        "variant": "c",
+        "stdio.h": "c",
+        "list": "cpp"
+    }
+}
